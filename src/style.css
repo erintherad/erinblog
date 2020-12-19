@@ -356,3 +356,8 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+.responsive-img {
+  width: 100%;
+  height: auto;
+}
