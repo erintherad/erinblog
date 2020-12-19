@@ -9,6 +9,8 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
+import SocialIcon from "./social"
+
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
@@ -62,14 +64,15 @@ const Bio = () => {
   `)
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
-  const author = data.site.siteMetadata?.author
+  const author = data?.site.siteMetadata?.author
   const avatar = data?.avatar?.childImageSharp?.fixed
 
-  const social = data.site.siteMetadata?.social
   const linkedin = data?.linkedin?.childImageSharp?.fixed
   const twitter = data?.twitter?.childImageSharp?.fixed
   const instagram = data?.instagram?.childImageSharp?.fixed
   const vimeo = data?.vimeo?.childImageSharp?.fixed
+
+  console.log(data)
 
   return (
     <div className="bio">
@@ -86,47 +89,12 @@ const Bio = () => {
       {author?.name && (
         <div>
           <p>Written by {author.name}</p>
-          <span>
-            {linkedin && (
-                <a href={`https://www.linkedin.com/in/${social?.linkedin_handle || ``}`}>
-                  <Image
-                    fixed={linkedin}
-                    alt="linkedin"
-                    className="social-icons"
-                  />
-                </a>
-              )}
-            {` `}
-            {twitter && (
-              <a href={`https://twitter.com/${social?.handle || ``}`}>
-                <Image
-                  fixed={twitter}
-                  alt="twitter"
-                  className="social-icons"
-                />
-              </a>
-            )}
-            {` `}
-            {instagram && (
-              <a href={`https://www.instagram.com/${social?.handle || ``}`}>
-                <Image
-                  fixed={instagram}
-                  alt="instagram"
-                  className="social-icons"
-                />
-              </a>
-            )}
-            {` `}
-            {vimeo && (
-                <a href={`https://vimeo.com/${social?.vimeo_handle || ``}`}>
-                  <Image
-                    fixed={vimeo}
-                    alt="vimeo"
-                    className="social-icons"
-                  />
-                </a>
-              )}
-          </span>
+          <div>
+            <SocialIcon media={linkedin} href="https://www.linkedin.com/in/" alt="LinkedIn" handle="erinmahoneyphoto" />
+            <SocialIcon media={twitter} href="https://twitter.com/" alt="Twitter" />
+            <SocialIcon media={instagram} href="https://www.instagram.com/" alt="Instagram" />
+            <SocialIcon media={vimeo} href="https://vimeo.com/" alt="Vimeo" handle="erinmahoney" />
+          </div>
         </div>
       )}
     </div>

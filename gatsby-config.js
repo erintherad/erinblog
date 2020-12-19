@@ -8,8 +8,6 @@ module.exports = {
     siteUrl: `https://erinmahoney.netlify.app/`,
     social: {
       handle: `erintherad`,
-      linkedin_handle: `erinmahoneyphoto`,
-      vimeo_handle: `erinmahoney`,
     },
   },
   plugins: [
