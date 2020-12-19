@@ -302,6 +302,11 @@ a:focus {
   border-radius: 100%;
 }
 
+.social-icons {
+  margin-top: var(--spacing-2);
+  margin-right: var(--spacing-2);
+}
+
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
 }

@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `[Insert thoughts here]`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Erin Mahoney`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `A personal blog built with Gatsby`,
+    siteUrl: `https://erinmahoney.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      handle: `erintherad`,
+      linkedin_handle: `erinmahoneyphoto`,
+      vimeo_handle: `erinmahoney`,
     },
   },
   plugins: [
@@ -66,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.jpg`,
       },
     },
     `gatsby-plugin-react-helmet`,
