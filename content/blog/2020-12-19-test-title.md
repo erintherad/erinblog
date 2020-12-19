@@ -7,7 +7,7 @@ I created this site in less than five minutes which includes creating, building,
 
 ## The deets
 
-![Netlify CMS Admin](/images/uploads/screen-shot-2020-12-19-at-12.47.51-pm.png)
+<img src="/images/uploads/screen-shot-2020-12-19-at-12.47.51-pm.png" alt="Netlify CMS Admin" width="600" />
 
 This site was built entirely with Gatsby JS with a Netlify CMS integration and deployment. I was able to create a basic Gatsby starter project (comes with GraphQL and MDX capabilities) and then integrate it from my GitHub account to Netlify. I enabled the CMS config through the project and am currently writing this post through Netlify's CMS admin. Enabling [Git Gateway](https://docs.netlify.com/visitor-access/git-gateway/) has allowed the process to come full circle and automagically update my GitHub project with the new content.
 
