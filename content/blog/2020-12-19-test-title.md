@@ -3,8 +3,6 @@ layout: blog
 title: Five minutes
 date: 2020-12-19T16:24:58.131Z
 ---
-![Main website](/images/uploads/screen-shot-2020-12-19-at-12.48.03-pm.png)
-
 I created this site in less than five minutes which includes creating, building, and deploying. Gone are the days where one struggles through all of the heavy lifting when trying to publish something as simple as a blog app.
 
 ## The deets
