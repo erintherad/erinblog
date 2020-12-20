@@ -3,19 +3,19 @@ layout: blog
 title: Holiday Cocktail Kit and design
 date: 2020-12-20
 ---
-<img class="responsive-img" src="/images/uploads/2020-12-20-holiday_1.jpg" alt="Past designs" />
+<img class="responsive-img" src="/images/uploads/2020-12-20/holiday_1.jpg" alt="Past designs" />
 
 My bachelor degree is in professional photography illustration, which at the time, was a path towards print media, design, and photography--A kind of inbetween of online and print presence. Shortly after graduating, I put that degree to use by working for a catalog company which sold everything from gigantic cupcake molds to car covers. I photographed the products and helped with design and layout for the print and online catalog. 
 
 Now I work purely in an online space and technology; outside th realm of the tangible. Despite that, I've managed to continue designing throughout the years. There's something so satisfying seeing designed work off the computer screen and in real life. I've created Oscar ballots, wedding invitations, fine food labels, holiday cards, and more.
 
-<img class="responsive-img" src="/images/uploads/2020-12-20-holiday_3.jpg" alt="Holiday Cocktail Kit" />
+<img class="responsive-img" src="/images/uploads/2020-12-20/holiday_3.jpg" alt="Holiday Cocktail Kit" />
 
 With new found creative energy and a time-abundant pandemic, this year I put together a homemade seasonal cocktail kit including my own product and recipe card designs.
 
 ## 🥫 Inspiration
 
-<img class="responsive-img-no-shadow" src="/images/uploads/2020-12-20-illustration.png" alt="Cocktail illustration" />
+<img class="responsive-img-no-shadow" src="/images/uploads/2020-12-20/illustration.png" alt="Cocktail illustration" />
 
 I found this image for free floating around on the web. It instantly reminded me of 70s style cooking books, crockpots, and bakeware. I thought of bold and curvy headings and serif fonts. I weirdly thought of molded aspics and platters of fish...🤷🏻‍♀️
 
@@ -35,15 +35,15 @@ The fonts I used came from Google Fonts and Dafont.
 
 ## 🥃 Recipe Cards + Labels
 
-<img class="responsive-img-no-shadow" src="/images/uploads/2020-12-20-recipes.jpg" alt="Recipe Cards" />
+<img class="responsive-img-no-shadow" src="/images/uploads/2020-12-20/recipes.jpg" alt="Recipe Cards" />
 
 I began creating an alcoholic set of recipes but then realized that I could also make a non-alcoholic set as well. Once one card was created, it was easy enough to templatize and fill in the necessary content for the others.
 
-You can download a PDF of all the recipe cards <a href="/images/uploads/2020-12-20-holiday-cocktail-recipes.pdf" target="_blank">here</a>! 
+You can download a PDF of all the recipe cards <a href="/images/uploads/2020-12-20/holiday-cocktail-recipes.pdf" target="_blank">here</a>! 
 
 They print out nicely on 8.5x11 sized paper creating (3) 3x5 recipe cards per sheet. I used this [Avery product](https://www.amazon.com/gp/product/B00006HPWA/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1) to get nice punched out 3x5 index cards straight from my home laser printer
 
-<img class="responsive-img-no-shadow" src="/images/uploads/2020-12-20-bottle_label.jpg" alt="Bottle Label" />
+<img class="responsive-img-no-shadow" src="/images/uploads/2020-12-20/bottle_label.jpg" alt="Bottle Label" />
 
 The labels for the bottles were a division from the main design. As much as I was going for a specific feel and style, I always want my designs to feel small-batch and intentional. It was important for me to put in organic parts of the design, in this case, through the Breathing handwritten font. 2 oz bottles are also hard to read any text from. I purposefully made the labels all caps with the bold Yanone Kaffeesatz font for easy reading. In the end, the bottle labels were much more modern looking than the recipe cards.
 
@@ -51,7 +51,7 @@ I printed the labels on [Avery sticker paper](https://www.amazon.com/gp/product/
 
 ## 🍯 Syrup, bitters, spray
 
-<img class="responsive-img" src="/images/uploads/2020-12-20-holiday_2.JPG" alt="Bottles" />
+<img class="responsive-img" src="/images/uploads/2020-12-20/holiday_2.JPG" alt="Bottles" />
 
 The recipes to create the Persimmon Simple Syrup, Coffee Pecan Bitters, and Yaupon Ginger Finishing Spray were all fairly straight forward.
 

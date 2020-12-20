@@ -56,7 +56,7 @@ const Bio = () => {
             summary
           }
           social {
-            handle
+            twitter
           }
         }
       }
