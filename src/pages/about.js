@@ -6,7 +6,7 @@ import Layout from "../components/layout"
 
 const About = ({ location }) => {
     const data = useStaticQuery(graphql`
-    query SiteMetaData {
+    query AboutMetaData {
       site {
         siteMetadata {
           author {
@@ -16,7 +16,7 @@ const About = ({ location }) => {
           title
         }
       }
-      profile: file(absolutePath: { regex: "/profile-pic2.jpg/" }) {
+      profile: file(absolutePath: { regex: "/profile-pic2.png/" }) {
         childImageSharp {
           fixed(width: 330, height: 330, quality: 95) {
             ...GatsbyImageSharpFixed
@@ -41,7 +41,7 @@ const About = ({ location }) => {
                     />
                 )}
                 <div className="about-content">
-                    <h2 className="about-heading">Hello, I'm Erin</h2>
+                    <h2 className="about-heading">Hello, I'm Erin.</h2>
                     <p>
                         I am a creative technologist currently based in Austin, Texas. 
                         My background is in photography and design but I currently 
