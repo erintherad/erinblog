@@ -71,9 +71,7 @@ const Bio = () => {
   const twitter = data?.twitter?.childImageSharp?.fixed
   const instagram = data?.instagram?.childImageSharp?.fixed
   const vimeo = data?.vimeo?.childImageSharp?.fixed
-
-  console.log(data)
-
+  
   return (
     <div className="bio">
       {avatar && (
@@ -88,7 +86,7 @@ const Bio = () => {
       )}
       {author?.name && (
         <div>
-          <p>Written by {author.name}</p>
+          <p>{author.name} | ©{new Date().getFullYear()}</p>
           <div>
             <SocialIcon media={linkedin} href="https://www.linkedin.com/in/" alt="LinkedIn" handle="erinmahoneyphoto" />
             <SocialIcon media={twitter} href="https://twitter.com/" alt="Twitter" />
