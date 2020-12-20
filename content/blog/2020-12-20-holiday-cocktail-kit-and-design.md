@@ -51,6 +51,8 @@ I printed the labels on [Avery sticker paper](https://www.amazon.com/gp/product/
 
 ## 🍯 Syrup, bitters, spray
 
+<img class="responsive-img" src="/images/uploads/2020-12-20-holiday_2.JPG" alt="Bottles" />
+
 The recipes to create the Persimmon Simple Syrup, Coffee Pecan Bitters, and Yaupon Ginger Finishing Spray were all fairly straight forward.
 
 The concept is simple: Choose your alcohol, spices/ingredients, and allow to steep for a certain amount of time.
