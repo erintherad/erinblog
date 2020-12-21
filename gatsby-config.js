@@ -7,7 +7,7 @@ module.exports = {
     description: `A personal blog built with Gatsby`,
     siteUrl: `https://erinmahoney.netlify.app/`,
     social: {
-      twitter: `erintherad`,
+      twitter: `@erintherad`,
     },
   },
   plugins: [
