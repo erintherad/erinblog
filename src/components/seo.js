@@ -10,7 +10,7 @@ import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 
-import defaultMetaImage from "../../content/assets/template.jpg"
+import defaultMetaImage from "../../content/assets/template.png"
 
 const SEO = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(
