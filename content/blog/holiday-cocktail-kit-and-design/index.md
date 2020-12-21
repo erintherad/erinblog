@@ -2,6 +2,7 @@
 layout: blog
 title: Holiday Cocktail Kit and design
 date: 2020-12-20
+banner: './banner.jpg'
 ---
 <img class="responsive-img" src="/images/uploads/2020-12-20/holiday_1.jpg" alt="Past designs" />
 

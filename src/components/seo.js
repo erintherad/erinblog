@@ -12,7 +12,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import defaultMetaImage from "../../content/assets/template.png"
 
-const SEO = ({ description, lang, meta, title }) => {
+const SEO = ({ description, lang, meta, title, metaImage }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -31,6 +31,7 @@ const SEO = ({ description, lang, meta, title }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+  const card = metaImage || defaultMetaImage
 
   return (
     <Helmet
@@ -78,7 +79,7 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           name: `twitter:image`,
-          content: `https://erinthoughts.com${defaultMetaImage}`
+          content: `https://erinthoughts.com${card}`
         }
       ].concat(meta)}
     />
