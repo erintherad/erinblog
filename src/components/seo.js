@@ -78,7 +78,7 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           name: `twitter:image`,
-          content: `https://erinmahoney.netlify.app${defaultMetaImage}`
+          content: `https://erinthoughts.com${defaultMetaImage}`
         }
       ].concat(meta)}
     />
