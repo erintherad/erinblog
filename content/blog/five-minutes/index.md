@@ -2,6 +2,7 @@
 layout: blog
 title: Five minutes
 date: 2020-12-19T16:24:58.131Z
+banner: ''
 ---
 <img class="responsive-img" src="/images/uploads/2020-12-19/screen-shot-2020-12-19-at-1.18.48-pm.png" alt="Main website" />
 
