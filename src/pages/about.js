@@ -37,7 +37,7 @@ const About = ({ location }) => {
                     <Image
                     fixed={profile}
                     alt={author?.name || ``}
-                    className="bio-avatar"
+                    className="bio-avatar about-img"
                     />
                 )}
                 <div className="about-content">
@@ -51,8 +51,8 @@ const About = ({ location }) => {
                     </p>
                     <p>
                         When not working, I enjoy hiking, traveling, and cooking. 
-                        This blog is a reflection of my interests and highlights of a 
-                        moment worth capturing.
+                        This blog is a reflection of my interests and highlights  
+                        moments worth capturing.
                     </p>
                 </div>
             </div>
