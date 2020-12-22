@@ -22,7 +22,7 @@ const Contact = ({ location }) => {
 
     return (
         <Layout location={location} title={siteTitle}>
-            <div className="about-wrapper">
+            <div>
                 <div className="about-content">
                     <h2 className="about-heading">Let's connect.</h2>
                     <p>

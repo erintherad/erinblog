@@ -32,7 +32,7 @@ const About = ({ location }) => {
 
     return (
         <Layout location={location} title={siteTitle}>
-            <div className="about-wrapper">
+            <div>
                 {profile && (
                     <Image
                     fixed={profile}
