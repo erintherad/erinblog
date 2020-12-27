@@ -40,9 +40,9 @@ I spent 5.25 minutes searching for a new calendar refill elsewhere but the optio
 
 So here's my January 2021 calendar with the featured yellow-rumped warbler!
 
-I like the overall look and retro feel. Special thanks to upgrading my Mac OS (ha) for some final design decisions. New Finder windows and previews in Big Sur are all rounded. When I saw my saved file in Finder, I liked the look and went back in and round the corners. (Otherwise, I do not like that preview rounds thumbnails by default. This design is bad, boo!)
+I like the overall look and retro feel. Special thanks to upgrading my Mac OS (ha) for some final design decisions. New Finder windows and previews in Big Sur are all rounded. When I saw my saved file in Finder, I liked the look and went back in Photoshop and intentionally rounded the corners of the file. (Otherwise, I do not like that preview rounds thumbnails by default. This design is bad, boo!)
 
-Taking some principles learned in some previous illustration lessions, I kept the color palette simple and minimized the details on the bird.
+Taking some principles learned in some previous illustration lessions, I kept the color palette simple and opted for a bold [Bungee](https://fonts.google.com/specimen/Bungee) font.
 
 I want to create a new calendar with a featured bird each month for 2021. I figured it could be a nice way to celebrate art, design, and the area that I live in. Since I'm writing this down and publishing this post, I hope to remain accountable. Wish me luck!
 
