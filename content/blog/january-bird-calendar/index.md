@@ -9,7 +9,7 @@ banner: './banner.jpg'
 
 <br/>
 
-Seen here is a yellow-rumped Warbler. These little dudes can be found all over my neighborhood. I find them directly outside my front door under the large pecan tree nibbling away at the fallen debris.
+Seen here is a yellow-rumped Warbler that I created recently with Procreate. These little dudes can be found all over my neighborhood. I find them directly outside my front door under the large pecan tree nibbling away at the fallen debris.
 
 From the Travis Audubon:
 
