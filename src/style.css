@@ -298,6 +298,10 @@ nav ul  {
   margin: 0;
 }
 
+.main-heading {
+  color: var(--color-heading);
+}
+
 .post-list-item {
   margin-bottom: var(--spacing-8);
   margin-top: var(--spacing-8);
@@ -328,10 +332,11 @@ nav ul  {
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-6);
+  color: var(--color-heading);
 }
 
 .header-link-home:hover {
-  color: var(--color-heading);
+  color: var(--color-text);
 }
 
 .bio {
@@ -380,6 +385,7 @@ nav ul  {
 
 .blog-post-nav ul {
   margin: var(--spacing-0);
+  justify-content: space-between;
 }
 
 .gatsby-highlight {

@@ -4,9 +4,14 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-const BlogIndex = ({ data, location }) => {
+const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
+  const { currentPage, numPages } = pageContext
+  const isFirst = currentPage === 1
+  const isLast = currentPage === numPages
+  const prevPage = currentPage - 1 === 1 ? '/' : '/' + (currentPage - 1).toString()
+  const nextPage = '/' + (currentPage + 1).toString()
 
   if (posts.length === 0) {
     return (
@@ -56,6 +61,24 @@ const BlogIndex = ({ data, location }) => {
           )
         })}
       </ol>
+      <nav className="blog-post-nav">
+        <ul>
+            <li>
+                {!isFirst && (
+                <Link to={prevPage} rel="prev">
+                    ← Previous Page
+                </Link>
+                )}
+            </li>
+            <li>
+                {!isLast && (
+                <Link to={nextPage} rel="next">
+                    Next Page →
+                </Link>
+                )}
+            </li>
+        </ul>
+      </nav>
     </Layout>
   )
 }
@@ -63,13 +86,17 @@ const BlogIndex = ({ data, location }) => {
 export default BlogIndex
 
 export const pageQuery = graphql`
-  query {
+  query blogPageQuery($skip: Int!, $limit: Int!) {
     site {
       siteMetadata {
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: $limit
+      skip: $skip
+    ) {
       nodes {
         excerpt
         fields {
