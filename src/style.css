@@ -66,6 +66,7 @@
   --color-heading: #E84744;
   --color-heading-black: #222831;
   --color-accent: #e8e8e8;
+  --color-highlight-accent: #d7e2ee;
 }
 
 /* HTML elements */
@@ -406,6 +407,34 @@ nav ul  {
 .about-heading {
   margin-top: 0;
   font-family: var(--font-body);
+}
+
+.sidebar-btns {
+  display: none;
+  position: fixed;
+  bottom: 50px;
+  right: 10%;
+  z-index: 99;
+  font-size: 1.125rem;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: white;
+  cursor: pointer;
+  padding: 0.9375rem;
+  border-radius: 0.25rem;
+  background-image: url("./arrow-up.svg");
+  background-repeat: no-repeat;
+  width: 50px;
+  height: 50px;
+  background-position: center;
+  filter: drop-shadow(0.08em 0.2em 0.2em var(--color-text-light));
+}
+
+#scroll-btn {
+  right: 15%;
+  background-image: url("./arrow-up.svg");
+  background-color: var( --color-highlight-accent);
 }
 
 /* Media queries */

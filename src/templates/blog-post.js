@@ -30,6 +30,7 @@ const BlogPostTemplate = ({ data, location }) => {
           itemProp="articleBody"
         />
       </article>
+      <button id="scroll-btn" className="sidebar-btns" title="Scroll to top" aria-label="Scroll button"></button>
       <nav className="blog-post-nav">
         <ul
           style={{
