@@ -188,6 +188,7 @@ ul li,
 ol li {
   padding-left: var(--spacing-0);
   margin-bottom: calc(var(--spacing-8) / 2);
+  padding-inline-start: 0;
 }
 
 li > p {
@@ -417,6 +418,7 @@ nav ul  {
   ul,
   ol {
     list-style-position: inside;
+    padding-inline-start: 0;
   }
 }
 
@@ -429,16 +431,10 @@ nav ul  {
 
   .about-content {
     margin-top: var(--spacing-5);
-    padding-inline-start: 40px;
   }
 
   .global-header-nav {
-    padding-inline-start: 0px;
     display: flex;
     justify-content: left;
-  }
-
-  .global-header {
-    padding-inline-start: 40px;
   }
 }
