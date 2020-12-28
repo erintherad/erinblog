@@ -58,6 +58,10 @@ const SEO = ({ description, lang, meta, title, metaImage }) => {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: `https://erinthoughts.com${card}`
+        },
+        {
           name: `twitter:card`,
           content: `summary_large_image`,
         },
