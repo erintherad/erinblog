@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Five minutes
+description: I made this blog in under five minutes including set up, build, and deployment.
 date: 2020-12-19T16:24:58.131Z
 banner: "./banner.png"
 ---

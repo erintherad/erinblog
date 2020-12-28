@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: January bird calendar
+description: I illustrated a yellow-rumped Warbler with Procreate and then made a 2021 January calendar with it.
 date: 2020-12-27
 banner: './banner.jpg'
 ---

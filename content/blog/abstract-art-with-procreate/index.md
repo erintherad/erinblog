@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Abstract art with Procreate
+description: Some new abstract art made with Procreate.
 date: 2020-12-22
 banner: "./banner.jpg"
 ---

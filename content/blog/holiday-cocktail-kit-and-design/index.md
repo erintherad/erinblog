@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Holiday Cocktail Kit and design
+description: An in-depth look at the inspiration and resources behind my 2020 holiday gift.
 date: 2020-12-20
 banner: './banner.jpg'
 ---
