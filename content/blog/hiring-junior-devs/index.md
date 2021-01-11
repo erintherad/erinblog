@@ -73,4 +73,11 @@ Every day the job market is more filled with junior developers seeking new posit
 
 Best of luck to those seeking jobs.
 
+### Open roles
+
+For more information on the job postings for my team.
+
+* [Design System Associate UX Developer](https://www.indeed.com/viewjob?jk=281b8521f1b8dbff&q=design+system+associate+ux+developer&tk=1erpjhr24u2h7800&from=web&vjs=3)
+* [Design System UX Developer](https://www.indeed.com/viewjob?jk=bfa053f1c7294528&q=design+system+ux+developer&tk=1erpjn9n2u5l6802&from=web&vjs=3)
+* [Design System Senior UX Developer](https://www.indeed.com/viewjob?jk=bc44f4e41ab4aca7&q=design+system+senior+ux+developer&tk=1erpjrbtru2jj800&from=web&vjs=3)
 
