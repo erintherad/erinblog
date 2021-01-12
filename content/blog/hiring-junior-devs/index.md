@@ -14,8 +14,6 @@ I currently manage the five developers on my team. My job is a perfect mix of pe
 
 ## 👩🏻‍🏫 Background
 
-Going through the job seeking experience myself really made a lasting impact and it has led me to really get behind Indeed's mission: **We help people get jobs.**
-
 I know of the stress and anxiety during the job seeking experience. Even before trying to get into tech, I was a struggling job seeker looking for a full-time higher education position. Paying bills/loans, providing for a family, having purpose and place are all wrapped in this process. So much of a peron's identity and value can be easily justified or removed by accepting an offer or receiving a rejection.
 
 I still vividly recall my own job seeking process as a newly certifed junior developer. I wrote a couple Medium posts even. (See [here](https://medium.com/@ErinTheRad/a-definitive-list-of-job-search-resources-bd0fee9b4632) and [here](https://startupsventurecapital.com/my-job-seeking-process-e7af518a8fdd).) It was both cathartic and resourceful to put word to my experience as I went through many job interviews beating out a sea of other well-deserving and capable junior developers.
