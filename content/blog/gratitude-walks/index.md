@@ -40,7 +40,7 @@ I don’t mind the chill on my arms because I know what it feels like to be warm
 
 Hearing, seeing, smelling, feeling all bring me to appreciate the present moment. 
 
-*So what is that so important?*
+*So why is that so important?*
 
 Being present helps to sooth and stabilize my emotions and internal dialogue. I find that I can make room for appreciation and gratitude. 
 
