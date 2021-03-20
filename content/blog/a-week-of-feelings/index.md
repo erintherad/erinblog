@@ -44,7 +44,7 @@ As [Dr. Jason Johnson](https://twitter.com/DrJasonJohnson/status/137330484922012
 
 >“_You can purchase a gun, go out, and shoot someone the same day in Georgia, but you can't register and vote on the same day._”
 
-I am aware and have been aware of Asian hate crimes increasing across America. But at that moment, it still feels distant and it doesn’t connect with me. I compartmentalize my feelings and began my work day.
+I am aware and have been aware of Asian hate crimes increasing across America. But at that moment, it still feels distant and it doesn’t connect with me. I compartmentalize my feelings and begin my work day.
 
 ### Wednesday evening
 
@@ -88,7 +88,7 @@ Because, yeah. _I get it_.
 
 I get the soul crushing fear and anger and hate and despair to know that the people and the system—_that is supposed to protect us_—won’t. Instead they will create excuses that support racism and perpetuate white supremacy. 
 
-Friends and family are continuing to text me. When asked how I’m doing, it’s just easier to say that “I’m better” when I’m actually full of anguish inside.
+Friends and family are continuing to text me. When asked how I’m doing, it’s just easier to say that “I’m better” when I’m actually full of anguish.
 
 ---
 ## Talking the talk
