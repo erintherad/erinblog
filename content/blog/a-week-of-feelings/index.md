@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: A week of feelings
-description: My thoughts and feelings lead up, during, and after the Atlanta Spa shootings
+description: My thoughts and feelings leading up, during, and after the Atlanta Spa shootings
 date: 2021-03-20
 banner: "./banner.jpg"
 ---
