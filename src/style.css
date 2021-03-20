@@ -443,6 +443,10 @@ nav ul  {
   background-color: var( --color-highlight-accent);
 }
 
+blockquote {
+  margin-left: 0;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
