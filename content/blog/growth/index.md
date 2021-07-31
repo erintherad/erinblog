@@ -16,7 +16,7 @@ I'm honored to be given this new opportunity to continue my passion and obsessio
 
 ## Why the move?
 
-As with any part of a journey, I have reached a pivotal moment of expansion and growth. Lately I've been seeking new challenges and industries to dive into and learn alongside design systems. Additionally, it's important for me to continue focusing on growth. Some ways I've developed for myself and desire moving forward:
+As with any part of a journey, I have reached a pivotal moment of expansion. Lately I've been seeking new challenges and industries to dive into and learn alongside design systems. Additionally, it's important for me to continue focusing on growth. Some ways I've developed for myself and desire moving forward:
 
 **I am strategic and forward thinking.** I'm often planning five steps ahead and I always want to know what this year, next, and five plus has in store for me, my team, the design system, and beyond.
 
